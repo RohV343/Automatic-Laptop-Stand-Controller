@@ -1,8 +1,4 @@
 /* ============================================================
- * main.c — Automatic Laptop Stand Controller
- * Target : STM32F446RE NUCLEO
- * Language: C, bare-metal
- * Header : stm32f4xx.h (CMSIS — no HAL, no mbed)
  *
  * Pin Map:
  *   PA5  → Motor A IN1      (GPIO output)
